@@ -1,0 +1,7 @@
+Django==3.1
+djangorestframework==3.11.1
+django-cors-headers
+numpy==1.18.4
+scikit-learn==0.24.2
+joblib==0.16.0
+simplet5==0.1.4
